@@ -1,5 +1,5 @@
 First command
-Second command
+ALT LINE TWO
 RANDOM NEW TEXT
 Third command
 Fourth command
